@@ -1,0 +1,8 @@
+html * {
+    list-style: none;
+}
+
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+}
